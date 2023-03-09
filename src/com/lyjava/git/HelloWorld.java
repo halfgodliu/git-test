@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("hello world3");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("other1 test");
     }
 }
